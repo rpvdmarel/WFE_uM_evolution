@@ -1,0 +1,7 @@
+This repository contains a Jupyter notebook that quantities the
+observed distribution of micrometeoroid (uM) impacts on JWST. It then
+uses that distribution to Monte-Carlo simulate the future evolution of
+the RMS Wavefront Error (WFE) of the JWST Optical Telescope Element
+(OTE). To setup a conda environment for running this notebook, see
+e.g., Appendix A of "OTE Science Performance Memo 5: The Optimal
+Wavefront Sensing Cadence" (van der Marel, 2025).
